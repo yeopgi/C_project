@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/yeopgi/coding/c++_coding/test.c" "/home/yeopgi/coding/c++_coding/CMakeFiles/test.dir/test.c.o"
+  "/home/yeopgi/coding/c++_coding/mixing_c_cpp/test.c" "/home/yeopgi/coding/c++_coding/mixing_c_cpp/CMakeFiles/test.dir/test.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -13,7 +13,7 @@ set(CMAKE_C_COMPILER_ID "GNU")
 set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/yeopgi/coding/c++_coding/test.cpp" "/home/yeopgi/coding/c++_coding/CMakeFiles/test.dir/test.cpp.o"
+  "/home/yeopgi/coding/c++_coding/mixing_c_cpp/test.cpp" "/home/yeopgi/coding/c++_coding/mixing_c_cpp/CMakeFiles/test.dir/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

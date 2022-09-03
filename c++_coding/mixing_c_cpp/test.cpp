@@ -1,7 +1,7 @@
 #include <iostream>
 
 extern "C" {
-extern void test_c_func();
+void test_c_func();
 }
 
 int main(void)

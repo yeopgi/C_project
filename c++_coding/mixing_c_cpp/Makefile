@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/yeopgi/coding/c++_coding
+CMAKE_SOURCE_DIR = /home/yeopgi/coding/c++_coding/mixing_c_cpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/yeopgi/coding/c++_coding
+CMAKE_BINARY_DIR = /home/yeopgi/coding/c++_coding/mixing_c_cpp
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yeopgi/coding/c++_coding/CMakeFiles /home/yeopgi/coding/c++_coding/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yeopgi/coding/c++_coding/mixing_c_cpp/CMakeFiles /home/yeopgi/coding/c++_coding/mixing_c_cpp/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yeopgi/coding/c++_coding/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yeopgi/coding/c++_coding/mixing_c_cpp/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
